@@ -1,3 +1,7 @@
 Manifest-Version: 1.0
 X-COMMENT: Main-Class will be added automatically by build
 
+Yöneticinin,
+Yöneticinin altında çalışanın
+Çalışanın zam miktarının 
+Çalışanın neler yaptığının yazıldığı kodlar.
